@@ -11,5 +11,7 @@
 ![Introduction](https://i.ibb.co/XbtRdbs/untitled-2.png)
 <br>
 <br>
-[![Ascendus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ascendus)](https://github.com/Ascendus)
-
+<details>
+  <summary>User Statistics</summary>
+  [![Ascendus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ascendus)](https://github.com/Ascendus)
+</details>
