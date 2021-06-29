@@ -5,7 +5,7 @@
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCqXKI12KoP2wMKiykZslUmw?label=YouTube%20Views&logo=YouTube&style=for-the-badge)
 <br>
 <br>
-[!Ascendus' Github Stats](https://i.ibb.co/9vHMHyV/untitled-3.png)
+![Ascendus' Github Stats](https://i.ibb.co/9vHMHyV/untitled-3.png)
 [![Ascendus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ascendus)](https://github.com/Ascendus)
 <br>
 <br>
