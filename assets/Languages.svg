@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1702" height="442" viewBox="0 0 1702 442">
+<svg xmlns="http://www.w3.org/2000/svg" width="1702" height="462" viewBox="0 0 1702 462">
   <rect id="Rectangle_4" data-name="Rectangle 4" width="8" height="91" transform="translate(0 76)" fill="#7289da"/>
   <g id="Group_3" data-name="Group 3" transform="translate(-70 -321)">
     <text id="Languages_Frameworks_Software" data-name="Languages, Frameworks &amp; Software" transform="translate(141 413)" fill="#7289da" font-size="85" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Languages, Frameworks &amp; Software</tspan></text>
@@ -9,15 +9,21 @@
 • Some Rust, C, C#, Java and Shell
 • Planning to learn Kotlin and PHP
 " transform="translate(141 495)" fill="#7289da" font-size="30" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">• JavaScript (web and NodeJS) and TypeScript</tspan><tspan x="0" y="40">• HTML and CSS</tspan><tspan x="0" y="80">• Lua/Luau</tspan><tspan x="0" y="120">• Python</tspan><tspan x="0" y="160">• Some Rust, C, C#, Java and Shell</tspan><tspan x="0" y="200">• Planning to learn Kotlin and PHP</tspan><tspan x="0" y="240"></tspan></text>
-    <text id="_ReactJS_NextJS_discord.js_discord-akairo_discord.py_ExpressJS_" data-name="• ReactJS
+    <text id="_ReactJS_NextJS_discord.js_discord-akairo_discord.py_ExpressJS_Prettier_ESLint_TSLint_Tailwind_CSS" data-name="• ReactJS
 • NextJS
 • discord.js/discord-akairo
 • discord.py
 • ExpressJS
-" transform="translate(935 495)" fill="#7289da" font-size="30" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">• ReactJS</tspan><tspan x="0" y="40">• NextJS</tspan><tspan x="0" y="80">• discord.js/discord-akairo</tspan><tspan x="0" y="120">• discord.py</tspan><tspan x="0" y="160">• ExpressJS</tspan><tspan x="0" y="200"></tspan></text>
-    <text id="_Visual_Studio_Code_GitHub_Git_npm" data-name="• Visual Studio Code
+• Prettier
+• ESLint/TSLint
+• Tailwind CSS" transform="translate(935 495)" fill="#7289da" font-size="30" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">• ReactJS</tspan><tspan x="0" y="40">• NextJS</tspan><tspan x="0" y="80">• discord.js/discord-akairo</tspan><tspan x="0" y="120">• discord.py</tspan><tspan x="0" y="160">• ExpressJS</tspan><tspan x="0" y="200">• Prettier</tspan><tspan x="0" y="240">• ESLint/TSLint</tspan><tspan x="0" y="280">• Tailwind CSS</tspan></text>
+    <text id="_Visual_Studio_Code_GitHub_Git_npm_TypeORM_Prisma_MikroORM_SQLite" data-name="• Visual Studio Code
 • GitHub/Git
-• npm" transform="translate(1472 463)" fill="#7289da" font-size="30" font-family="SegoeUI, Segoe UI"><tspan x="0" y="32">• Visual Studio Code</tspan><tspan x="0" y="72">• GitHub/Git</tspan><tspan x="0" y="112">• npm</tspan></text>
+• npm
+• TypeORM
+• Prisma
+• MikroORM
+• SQLite" transform="translate(1472 463)" fill="#7289da" font-size="30" font-family="SegoeUI, Segoe UI"><tspan x="0" y="32">• Visual Studio Code</tspan><tspan x="0" y="72">• GitHub/Git</tspan><tspan x="0" y="112">• npm</tspan><tspan x="0" y="152">• TypeORM</tspan><tspan x="0" y="192">• Prisma</tspan><tspan x="0" y="232">• MikroORM</tspan><tspan x="0" y="272">• SQLite</tspan></text>
   </g>
   <rect id="Rectangle_5" data-name="Rectangle 5" width="8" height="91" transform="translate(0 176)" fill="#7289da"/>
   <rect id="Rectangle_6" data-name="Rectangle 6" width="8" height="91" transform="translate(0 276)" fill="#7289da"/>
