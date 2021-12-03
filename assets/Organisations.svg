@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1456" height="488" viewBox="0 0 1456 488">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1456" height="477" viewBox="0 0 1456 477">
   <defs>
     <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 128 128">
       <image width="128" height="128" xlink:href="data:image/webp;base64,UklGRloDAABXRUJQVlA4IE4DAAAwGACdASqAAIAAPm0ymEckIyKhKZXpQIANiUAPQvM3wJeW4D/A3mVjbeYB+mvUK8zPm9eeV6gHTAc+37Kv7ntctcHMoeaV/l7jz1D9oytVa1KQ6DPeUikS9Mh29EDAXLp/Tv6ihJabxlt7ElLZKh32UYE3nNigmurWOTCaR3imIybNzmXvyPZ9bPAcVQNxV/dNa3ua7G8Vh8nheC/yuA2odX8MnDXk28fjbAqDW6NA/evFtOQrGy+GeoQv0nS9i5AB4iaYvU2G81wAAP76Rcv/xB8E/GfMAPH0lnQ/0PjeAQlDPbcWQ+J7/mSElCoZNf/2/tRHs+rnwshhFfG4ZxCSTHfrVlZBcn/YfVtsu0W9BT69qBHfzp9EbuT3z5T+gaxNYQLhcNVfRuxdAL5Xmc50aPFUtsGKhp1v50OnreqI3uyBMw+lcXSATr4amRhCuIoX402Hz/j5Z/r4t03xGTfbavvISxnuzUBuGyB7Qlv7+mV1HsAjKZdDMfwOkgs00iGO1i5wquYzxSdwQ3nQoPPKEU5tgOIT/hVl8Zi1j/qBZ7XuXym//RfW25199CeesDRmbsot06fpx/DjciNfM7P8hih96yQ4YC1pME6gRkHzImI4RmD3NuZOR2HknrrDh0OaHLaZGj7EyNUAJcKDFJdSAOlCowGj7BaEaM0aTkUCoAUXww/QbRMDYbl57ytksFEAeJufo3b1OAxRc00CZplKjKt75y+xHoDjJiGTk91fS95azGf0Tb/m/uUKs58FrqDq7HmuEZ3c73z4C/tkNhaB7EulJPIwMrZ2odUDIvqIM+XYHg0ksRGUxRdYvVFgcMvH07p+x2WUBFhFisoTPxo5rztnJ7vcWVHQSbxeOxJ3QhX2G7/F+xfOQbjCBILuRbYpAd2tjq9g31Fw13HjEhJwONbR5W8s3liSoD4vUcgSC97Ra814Pp+bsWH1dNwQ5NvqCbTcw0XTLBARvNxkirc7veHa8jiO+Kvug9Rq33ikysNd48D0NIXSxGHHq3FdP/q6CgFwMKfcOpsTUbH80AMz5E8xh8CGgtLg6q1eRKRPeSR+1nQqjzwGV2PpAg7/x7OUd+a33KEqPQNEMXUPq4Gj+McQjvKsE1lpCoAAAAA="/>
@@ -13,36 +13,36 @@
       <image width="200" height="200" xlink:href="data:image/png;base64,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"/>
     </pattern>
   </defs>
-  <rect id="Rectangle_7" data-name="Rectangle 7" width="8" height="91" transform="translate(0 98)" fill="#7289da"/>
-  <g id="Group_4" data-name="Group 4" transform="translate(-68 -321)">
-    <text id="Organizations" transform="translate(141 413)" fill="#7289da" font-size="85" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Organizations</tspan></text>
+  <rect id="Rectangle_7" data-name="Rectangle 7" width="8" height="91" transform="translate(0 87)" fill="#7289da"/>
+  <g id="Group_4" data-name="Group 4" transform="translate(-68 -332)">
+    <text id="Organizations" transform="translate(141 413)" fill="#7289da" font-size="75" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Organizations</tspan></text>
   </g>
-  <rect id="Rectangle_8" data-name="Rectangle 8" width="8" height="91" transform="translate(0 198)" fill="#7289da"/>
-  <rect id="Rectangle_9" data-name="Rectangle 9" width="8" height="91" transform="translate(0 298)" fill="#7289da"/>
-  <g id="Rectangle_11" data-name="Rectangle 11" transform="translate(73 143)" fill="#fff" stroke="#7289da" stroke-width="2">
+  <rect id="Rectangle_8" data-name="Rectangle 8" width="8" height="91" transform="translate(0 187)" fill="#7289da"/>
+  <rect id="Rectangle_9" data-name="Rectangle 9" width="8" height="91" transform="translate(0 287)" fill="#7289da"/>
+  <g id="Rectangle_11" data-name="Rectangle 11" transform="translate(73 132)" fill="#fff" stroke="#7289da" stroke-width="2">
     <rect width="313" height="345" rx="34" stroke="none"/>
     <rect x="1" y="1" width="311" height="343" rx="33" fill="none"/>
   </g>
-  <rect id="_3be12333176703d6cba2b4bac9f0884c" data-name="3be12333176703d6cba2b4bac9f0884c" width="140" height="140" rx="19" transform="translate(159 213)" fill="url(#pattern)"/>
+  <rect id="_3be12333176703d6cba2b4bac9f0884c" data-name="3be12333176703d6cba2b4bac9f0884c" width="140" height="140" rx="19" transform="translate(159 202)" fill="url(#pattern)"/>
   <text id="Matrix_Development" data-name="Matrix
-Development" transform="translate(229 404)" fill="#7289da" font-size="30" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-46.838" y="0">Matrix</tspan><tspan x="-94.775" y="40">Development</tspan></text>
-  <g id="Rectangle_12" data-name="Rectangle 12" transform="translate(429 143)" fill="#fff" stroke="#7289da" stroke-width="2">
+Development" transform="translate(229 393)" fill="#7289da" font-size="30" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-46.838" y="0">Matrix</tspan><tspan x="-94.775" y="40">Development</tspan></text>
+  <g id="Rectangle_12" data-name="Rectangle 12" transform="translate(429 132)" fill="#fff" stroke="#7289da" stroke-width="2">
     <rect width="313" height="345" rx="34" stroke="none"/>
     <rect x="1" y="1" width="311" height="343" rx="33" fill="none"/>
   </g>
-  <rect id="_3be12333176703d6cba2b4bac9f0884c-2" data-name="3be12333176703d6cba2b4bac9f0884c" width="140" height="140" rx="19" transform="translate(516 213)" fill="url(#pattern-2)"/>
-  <text id="Astura_Studios" data-name="Astura Studios" transform="translate(483 404)" fill="#7289da" font-size="30" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Astura Studios</tspan></text>
-  <g id="Rectangle_13" data-name="Rectangle 13" transform="translate(786 143)" fill="#fff" stroke="#7289da" stroke-width="2">
+  <rect id="_3be12333176703d6cba2b4bac9f0884c-2" data-name="3be12333176703d6cba2b4bac9f0884c" width="140" height="140" rx="19" transform="translate(516 202)" fill="url(#pattern-2)"/>
+  <text id="Astura_Studios" data-name="Astura Studios" transform="translate(483 393)" fill="#7289da" font-size="30" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Astura Studios</tspan></text>
+  <g id="Rectangle_13" data-name="Rectangle 13" transform="translate(786 132)" fill="#fff" stroke="#7289da" stroke-width="2">
     <rect width="313" height="345" rx="34" stroke="none"/>
     <rect x="1" y="1" width="311" height="343" rx="33" fill="none"/>
   </g>
-  <rect id="_3be12333176703d6cba2b4bac9f0884c-3" data-name="3be12333176703d6cba2b4bac9f0884c" width="140" height="140" rx="19" transform="translate(873 213)" fill="url(#pattern-3)"/>
+  <rect id="_3be12333176703d6cba2b4bac9f0884c-3" data-name="3be12333176703d6cba2b4bac9f0884c" width="140" height="140" rx="19" transform="translate(873 202)" fill="url(#pattern-3)"/>
   <text id="The_Programming_Module" data-name="The Programming 
-Module" transform="translate(943 404)" fill="#7289da" font-size="30" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-131.938" y="0">The Programming </tspan><tspan x="-54.265" y="40">Module</tspan></text>
-  <g id="Rectangle_14" data-name="Rectangle 14" transform="translate(1143 143)" fill="#fff" stroke="#7289da" stroke-width="2">
+Module" transform="translate(943 393)" fill="#7289da" font-size="30" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-131.938" y="0">The Programming </tspan><tspan x="-54.265" y="40">Module</tspan></text>
+  <g id="Rectangle_14" data-name="Rectangle 14" transform="translate(1143 132)" fill="#fff" stroke="#7289da" stroke-width="2">
     <rect width="313" height="345" rx="34" stroke="none"/>
     <rect x="1" y="1" width="311" height="343" rx="33" fill="none"/>
   </g>
-  <rect id="_3be12333176703d6cba2b4bac9f0884c-4" data-name="3be12333176703d6cba2b4bac9f0884c" width="140" height="140" rx="19" transform="translate(1230 213)" fill="url(#pattern-4)"/>
-  <text id="Astron_Studios" data-name="Astron Studios" transform="translate(1300 404)" fill="#7289da" font-size="30" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-103.542" y="0">Astron Studios</tspan></text>
+  <rect id="_3be12333176703d6cba2b4bac9f0884c-4" data-name="3be12333176703d6cba2b4bac9f0884c" width="140" height="140" rx="19" transform="translate(1230 202)" fill="url(#pattern-4)"/>
+  <text id="Astron_Studios" data-name="Astron Studios" transform="translate(1300 393)" fill="#7289da" font-size="30" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-103.542" y="0">Astron Studios</tspan></text>
 </svg>
