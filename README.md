@@ -12,6 +12,8 @@
 <br />
 <a href="https://github.com/Ascendus"><img src="./assets/Organisations.svg" alt="Organisations" /></a>
 <img src="https://metrics.lecoq.io/Ascendus?template=classic&base.header=0&base.community=0&base.repositories=0&base.metadata=0&config.timezone=Pacific%2FAuckland" alt="Activity" />
+<hr />
+<br />
 <!--<img src="https://metrics.lecoq.io/Ascendus?template=classic&base.header=0&base.community=0&base.repositories=0&base.metadata=0&config.timezone=Pacific%2FAuckland" alt="Community stats" />
 <img src="https://metrics.lecoq.io/Ascendus?template=classic&base.header=0&base.community=0&base.repositories=0&base.metadata=0&config.timezone=Pacific%2FAuckland" alt="Repository metrics">
 -->
