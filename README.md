@@ -7,10 +7,10 @@
 <hr />
 <br />
 <a href="https://github.com/Ascendus"><img src="./assets/Languages.svg" alt="Languages, Frameworks & Software" /></a>
-<br />
+<!--<br />
 <hr />
 <br />
-<a href="https://github.com/Ascendus"><img src="./assets/Organisations.svg" alt="Organisations" /></a>
+<a href="https://github.com/Ascendus"><img src="./assets/Organisations.svg" alt="Organisations" /></a>-->
 <br />
 <hr />
 <br />
