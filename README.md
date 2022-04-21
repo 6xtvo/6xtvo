@@ -1,3 +1,4 @@
+<br />
 <h1>Hi 👋, I'm unkn0wn</h1>
 <br />
 
@@ -5,8 +6,6 @@
 [![GitHub User's stars](https://img.shields.io/github/stars/unkn0wnF?logo=Github&style=for-the-badge&label=GitHub%20Stars)](https://github.com/unkn0wnF)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCqXKI12KoP2wMKiykZslUmw?label=YouTube%20Subscribers&logo=YouTube&style=for-the-badge)](https://www.youtube.com/c/Ascendus)
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCqXKI12KoP2wMKiykZslUmw?label=YouTube%20Views&logo=YouTube&style=for-the-badge)](https://www.youtube.com/channel/UCqXKI12KoP2wMKiykZslUmw)
-
-<br />
 
 <h3>A full-stack web application, game and Discord bot developer.</h3>
 
