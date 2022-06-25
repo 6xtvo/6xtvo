@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking for help with [MidnightJS](https://github.com/Astura-Studios/MidnightJS)
 
-- 👨‍💻 All of my projects are available at [https://github.com/unkn0wnF?tab=repositories](https://github.com/unkn0wnF?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/r1zyntab=repositories](https://github.com/r1zyn?tab=repositories)
 
 - 💬 Ask me about **JavaScript/TypeScript, Node.js, express, React, Next.js and discord.js**
 
@@ -16,8 +16,8 @@
 
 - ⚡ Fun fact: I overwhelm myself with too many projects at once
 
-[![GitHub followers](https://img.shields.io/github/followers/unkn0wnF?logo=Github&style=for-the-badge&label=GitHub%20Followers)](https://github.com/unkn0wnF)
-[![GitHub User's stars](https://img.shields.io/github/stars/unkn0wnF?logo=Github&style=for-the-badge&label=GitHub%20Stars)](https://github.com/unkn0wnF)
+[![GitHub followers](https://img.shields.io/github/followers/r1zyn?logo=Github&style=for-the-badge&label=GitHub%20Followers)](https://github.com/r1zyn)
+[![GitHub User's stars](https://img.shields.io/github/stars/r1zyn?logo=Github&style=for-the-badge&label=GitHub%20Stars)](https://github.com/r1zyn)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCqXKI12KoP2wMKiykZslUmw?label=YouTube%20Subscribers&logo=YouTube&style=for-the-badge)](https://www.youtube.com/c/Ascendus)
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCqXKI12KoP2wMKiykZslUmw?label=YouTube%20Views&logo=YouTube&style=for-the-badge)](https://www.youtube.com/channel/UCqXKI12KoP2wMKiykZslUmw)
 
@@ -34,10 +34,10 @@
 <details>
   <summary><h3>GitHub Statistics</h3></summary>
   <br />
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=unkn0wnF&show_icons=true&locale=en&layout=compact" alt="unkn0wnF" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r1zyn&show_icons=true&locale=en&layout=compact" alt="r1zyn" /></p>
 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=unkn0wnF&show_icons=true&locale=en" alt="unkn0wnF" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r1zyn&show_icons=true&locale=en" alt="r1zyn" /></p>
 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=unkn0wnF&" alt="unkn0wnF" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unkn0wnF" alt="unkn0wnF" /></a> </p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r1zyn" alt="r1zyn" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r1zyn" alt="r1zyn" /></a> </p>
 </details>
