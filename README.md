@@ -1,16 +1,16 @@
 <h3>A full-stack web application, game and Discord bot developer.</h3>
 
-- 🔭 I’m currently working on [Astura](https://github.com/Astura-Studios/Astura)
+- 🔭 I’m currently working on [Protocon](https://github.com/OfficialProtocon)
 
 - 🌱 I’m currently learning **Go, Rust, Kotlin, C#**
 
-- 👯 I’m looking to collaborate on [CommitHub](https://github.com/unkn0wnF/CommitHub)
+- 👯 I’m looking to collaborate on [Protocon](https://github.com/OfficialProtocon)
 
 - 🤝 I’m looking for help with [MidnightJS](https://github.com/Astura-Studios/MidnightJS)
 
-- 👨‍💻 All of my projects are available at [https://github.com/r1zyntab=repositories](https://github.com/r1zyn?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/r1zyn?tab=repositories](https://github.com/r1zyn?tab=repositories)
 
-- 💬 Ask me about **JavaScript/TypeScript, Node.js, express, React, Next.js and discord.js**
+- 💬 Ask me about **JavaScript/TypeScript, Node.js, web development (full-stack, front/backend, APIs, frameworks) discord.js**
 
 - 📫 How to reach me: **ascendus.dev@gmail.com**
 
