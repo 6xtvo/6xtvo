@@ -34,8 +34,8 @@
 <details>
   <summary><h3>GitHub Statistics</h3></summary>
   <br />
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r1zyn&show_icons=true&locale=en&layout=compact" alt="r1zyn" /></p>
-
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r1zyn&show_icons=true&locale=en&layout=compact&langs_count=10" alt="r1zyn" /></p>
+  
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r1zyn&show_icons=true&locale=en" alt="r1zyn" /></p>
 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r1zyn" alt="r1zyn" /></p>
