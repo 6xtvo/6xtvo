@@ -5,8 +5,8 @@
 <h1>Projects</h1>
 <span>Some of my projects:</span>
 <ul>
-  <li><a href="https://06ykl.github.io/powerball-simulator/" target="blank" rel="noopener noreferrer">Powerball Simulator</a></li>
-  <li><a href="https://06ykl.github.io/ai-site/" target="blank" rel="noopener noreferrer">School Informative AI Site</a></li>
+  <li><a href="https://xtncz.github.io/powerball-simulator/" target="blank" rel="noopener noreferrer">Powerball Simulator</a></li>
+  <li><a href="https://xtncz.github.io/ai-site/" target="blank" rel="noopener noreferrer">School Informative AI Site</a></li>
   <li><a href="https://matrixdev.xyz/" target="blank" rel="noopener noreferrer">Matrix Development</a></li>
   <li><a href="https://follow-diff.vercel.app/" target="blank" rel="noopener noreferrer">FollowDiff</a></li>
 </ul>
