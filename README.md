@@ -50,7 +50,7 @@ $ cd projects
 6xtvo@README ~/projects
 $ ls
 +============================+==============================================+==============================================+
-| Name                       | Link                                         |  Repository                                  |
+| Name                       | Link                                         | Repository                                   |
 +============================+==============================================+==============================================+
 | UABC Portal                | https://uoabadminton.co.nz/                  | https://github.com/UoaWDCC/uabc-web          |
 | FollowDiff                 | https://follow-diff.vercel.app/              | https://github.com/6xtvo/FollowDiff/         |
