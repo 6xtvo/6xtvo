@@ -10,11 +10,12 @@
   .:@%*==     @@@@@#.                          Est. 2020
      .-::     ::::.        
 
-                           Current User     :: 6xtvo
-                           About            :: Passionate self-taught developer since 2020
-                           Study Year       :: 1st year
-                           Degree           :: Bachelor of Science (BSC)
-                           Majors           :: Computer Science, Information and Technology Management
+
+        Current User     :: 6xtvo
+        About            :: Passionate self-taught developer since 2020
+        Study Year       :: 1st year
+        Degree           :: Bachelor of Science (BSC)
+        Majors           :: Computer Science, Information and Technology Management
 
 
 6xtvo@README ~
