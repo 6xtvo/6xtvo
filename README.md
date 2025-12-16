@@ -1,21 +1,21 @@
 ```bash
-        ..:::..         
-   .=%@@@@@@@@@@@#-.    
-  .@# .#**###**#.  %@..      ____________  __________________   ____________  
- :@@*             .#@%.     /  _____/\   \/  /\__    ___/\   \ /   /\_____  \      
-.*@%               :@@=    /   __  \  \     /   |    |    \   Y   /  /   |   \ 
-.#@%               -@@=    \  |__\  \ /     \   |    |     \     /  /    |    \
- =@@%-            =@@@:     \_____  //___/\  \  |____|      \___/   \_______  /
-  +@:*%++     @@@@@@@=.           \/       \_/                              \/ 
-  .:@%*==     @@@@@#.                          Est. 2020
-     .-::     ::::.        
-
-
-        Current User     :: 6xtvo
-        About            :: Passionate self-taught developer since 2020
-        Study Year       :: 1st year
-        Degree           :: Bachelor of Science (BSC)
-        Majors           :: Computer Science, Information and Technology Management
+                              ..:::..         
+                         .=%@@@@@@@@@@@#-.    
+                        .@# .#**###**#.  %@..      ____________  __________________   ____________  
+                       :@@*             .#@%.     /  _____/\   \/  /\__    ___/\   \ /   /\_____  \      
+                      .*@%               :@@=    /   __  \  \     /   |    |    \   Y   /  /   |   \ 
+                      .#@%               -@@=    \  |__\  \ /     \   |    |     \     /  /    |    \
+                       =@@%-            =@@@:     \_____  //___/\  \  |____|      \___/   \_______  /
+                        +@:*%++     @@@@@@@=.           \/       \_/                              \/ 
+                        .:@%*==     @@@@@#.                          Est. 2020
+                           .-::     ::::.        
+                
+                
+                                Current User     :: 6xtvo
+                                About            :: Passionate self-taught developer since 2020
+                                Study Year       :: 1st year
+                                Degree           :: Bachelor of Science (BSC)
+                                Majors           :: Computer Science, Information and Technology Management
 
 
 6xtvo@README ~
