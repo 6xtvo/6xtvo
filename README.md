@@ -13,7 +13,7 @@
                 
                                 Current User     :: 6xtvo
                                 About            :: Passionate self-taught developer since 2020
-                                Study Year       :: 1st year
+                                Study Year       :: 2nd year
                                 Degree           :: Bachelor of Science (BSC)
                                 Majors           :: Computer Science, Information and Technology Management
 
@@ -42,8 +42,8 @@ $ cat tools.txt
 > Prisma         > npm           > PayloadCMS
 > React.js       > yarn          > Blazor
 > Next.js        > pnpm          > D++
-> Blitz.js       > PostgreSQL
-> discord.js     > SQLite
+> Blitz.js       > PostgreSQL    > Vitest
+> discord.js     > SQLite        > Supbase
 
 6xtvo@README ~
 $ cd projects
