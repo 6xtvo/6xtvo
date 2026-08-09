@@ -41,8 +41,8 @@ $ cat tools.txt
 > Prisma         > npm           > PayloadCMS
 > React.js       > yarn          > Blazor
 > Next.js        > pnpm          > D++
-> Blitz.js       > PostgreSQL    > Vitest
-> discord.js     > SQLite        > Supbase
+> Blitz.js       > PostgreSQL    > Supabase
+> discord.js     > SQLite        
 
 6xtvo@README ~
 $ cd projects
