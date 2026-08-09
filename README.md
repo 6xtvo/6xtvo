@@ -11,7 +11,6 @@
                            .-::     ::::.        
                 
                 
-                                Current User     :: 6xtvo
                                 About            :: Passionate self-taught developer since 2020
                                 Study Year       :: 2nd year
                                 Degree           :: Bachelor of Science (BSC)
